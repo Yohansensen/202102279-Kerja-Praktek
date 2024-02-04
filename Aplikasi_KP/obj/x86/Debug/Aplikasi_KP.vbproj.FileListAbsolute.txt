@@ -1,0 +1,59 @@
+C:\Users\User\documents\visual studio 2010\Projects\Aplikasi_KP\Aplikasi_KP\bin\Debug\Aplikasi_KP.exe
+C:\Users\User\documents\visual studio 2010\Projects\Aplikasi_KP\Aplikasi_KP\bin\Debug\Aplikasi_KP.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Aplikasi_KP\Aplikasi_KP\bin\Debug\Aplikasi_KP.xml
+C:\Users\User\documents\visual studio 2010\Projects\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\WindowsApplication1.Formbarang.resources
+C:\Users\User\documents\visual studio 2010\Projects\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\User\documents\visual studio 2010\Projects\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\Aplikasi_KP.vbproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2010\Projects\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\Aplikasi_KP.exe
+C:\Users\User\documents\visual studio 2010\Projects\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\Aplikasi_KP.xml
+C:\Users\User\documents\visual studio 2010\Projects\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\Aplikasi_KP.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\WindowsApplication1.FormMobil.resources
+C:\Users\User\documents\visual studio 2010\Projects\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\WindowsApplication1.Optimasi.resources
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\Aplikasi_KP.vbproj.AssemblyReference.cache
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\WindowsApplication1.Formbarang.resources
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\WindowsApplication1.FormMobil.resources
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\WindowsApplication1.Main.resources
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\WindowsApplication1.Optimasi.resources
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\Aplikasi_KP.vbproj.GenerateResource.cache
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\Aplikasi_KP.vbproj.CoreCompileInputs.cache
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\Aplikasi_KP.exe
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\Aplikasi_KP.xml
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\Aplikasi_KP.pdb
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\Aplikasi_KP.exe.config
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\Aplikasi_KP.exe
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\Aplikasi_KP.pdb
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\Aplikasi_KP.xml
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\MySql.Data.dll
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\obj\x86\Debug\Aplikasi_KP.vbproj.CopyComplete
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\Google.Protobuf.dll
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\K4os.Compression.LZ4.dll
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\K4os.Hash.xxHash.dll
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\System.Buffers.dll
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\System.IO.Pipelines.dll
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\System.Memory.dll
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\System.Numerics.Vectors.dll
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\ZstdSharp.dll
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\Google.Protobuf.pdb
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\Google.Protobuf.xml
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\K4os.Compression.LZ4.xml
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\K4os.Hash.xxHash.xml
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\MySql.Data.xml
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\System.Buffers.xml
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\System.IO.Pipelines.xml
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\System.Memory.xml
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\System.Numerics.Vectors.xml
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\Kerja Praktek\Hansen\Aplikasi_KP\Aplikasi_KP\bin\Debug\System.Threading.Tasks.Extensions.xml
